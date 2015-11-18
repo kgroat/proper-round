@@ -1,0 +1,14 @@
+{
+  "name": "proper-round",
+  "version": "1.0.0",
+  "description": "A rounding function that rounds as expected for all scenarios rather than just most",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "keywords": [
+    "round"
+  ],
+  "author": "thegrtman",
+  "license": "ISC"
+}
