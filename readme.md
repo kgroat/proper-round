@@ -26,6 +26,8 @@ var round = require('proper-round')
 console.log(round.money(4.95 * 0.7)) // logs 3.47
 ```
 
+[Here's why the other rounding functions aren't consistent](https://tonicdev.com/kgroat09/tofixed-rounding)
+
 ## License
 
 ISC
